@@ -1,4 +1,4 @@
-### Project Title
+### Diabetes Risk Prediction
 
 Priya Tikoo
 
