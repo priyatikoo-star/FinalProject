@@ -1,4 +1,6 @@
 Diabetes Risk Prediction
+=======
+### Diabetes Risk Prediction
 
 Priya Tikoo
 
@@ -34,7 +36,7 @@ What suggestions do you have for next steps?
 This work can be extended by using DL methods
 #### Outline of project
 
-http://localhost:8888/notebooks/FinalProject/Diabetes.ipynb
+Diabetes.ipynb
 
 ##### Contact and Further Information
 priya.tikoo@gmail.com
